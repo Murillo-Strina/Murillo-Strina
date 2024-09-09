@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murillo-Strina&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Pedro-Icons" height="50" width="800" src="https://skillicons.dev/icons?i=java,py,cs,mysql">  
+  <img align="center" alt="Pedro-Icons" height="50" width="800" src="https://skillicons.dev/icons?i=java,unity,py,cs,mysql">  
 </div>
   
   ##
