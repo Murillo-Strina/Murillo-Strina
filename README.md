@@ -16,7 +16,6 @@
   
 
 <div align="center">
-  <h2>Hobbies</h2>
   <p>🎮 Gaming | 📚 Reading | 🎲 Board Games</p>
   </p>
 </div>
