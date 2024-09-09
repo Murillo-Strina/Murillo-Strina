@@ -1,7 +1,8 @@
 <div align="center">
-  Welcome to my profile!
-  <br />
+  <h1>Welcome to my profile!</h1>
+  <p>I'm Murillo Strina, a passionate developer and a student of Computer Engineering. I love exploring new technologies, solving challenges, and learning about the future!</p>
 </div>
+
 
 <div align="center">
   <a href="https://github.com/Murillo-Strina">
@@ -19,3 +20,9 @@
   <a href="mailto:murillostrina127@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/murillo-strina-7172b8251/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<div align="center">
+  <h2>Hobbies</h2>
+  <p> 🎮 Gaming | 📚 Reading | 🎲 Board Games </p>
+</div>
+
