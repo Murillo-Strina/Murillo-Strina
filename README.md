@@ -16,7 +16,7 @@
   
 <div align="center">
   <hr style="width: 80%; border: 1px solid #333;">
-  <h1>Hobbies</h1>
+  <p>Hobbies</p>
   <p>🎮 Gaming | 📚 Reading | 🎲 Board Games</p>
   </p>
   <hr style="width: 80%; border: 1px solid #333;">
