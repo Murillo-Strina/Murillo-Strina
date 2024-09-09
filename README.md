@@ -14,13 +14,13 @@
   <img align="center" alt="Murillo-Icons" height="50" src="https://skillicons.dev/icons?i=java,unity,py,cs,mysql">  
 </div>
   
-
+##
 <div align="center">
   <p>🎮 Gaming | 📚 Reading | 🎲 Board Games</p>
   </p>
 </div>
 
-
+##
 <div align="center"> 
   <a href="mailto:murillostrina127@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/murillo-strina-7172b8251/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
