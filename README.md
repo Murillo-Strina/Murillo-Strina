@@ -3,7 +3,7 @@
   <p>I'm Murillo Strina, a passionate developer and a student of Computer Engineering. I love exploring new technologies, solving challenges, and learning about the future!</p>
 </div>
 
-<div align="center" style="display: flex; justify-content: center;">
+<div align="center">
   <a href="https://github.com/Murillo-Strina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murillo-Strina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
@@ -11,7 +11,7 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Pedro-Icons" height="50" src="https://skillicons.dev/icons?i=java,unity,py,cs,mysql">  
+  <img align="center" alt="Murillo-Icons" height="50" src="https://skillicons.dev/icons?i=java,unity,py,cs,mysql">  
 </div>
   
 ##
