@@ -26,5 +26,3 @@
   <p> 🎮 Gaming | 📚 Reading | 🎲 Board Games </p>
 </div>
 
-## GitHub Stats
-![Murillo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Murillo-Strina&show_icons=true&theme=dracula)
