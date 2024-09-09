@@ -19,7 +19,6 @@
   <p>🎮 Gaming | 📚 Reading | 🎲 Board Games</p>
   </p>
 </div>
-
 ##
 <div align="center"> 
   <a href="mailto:murillostrina127@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
