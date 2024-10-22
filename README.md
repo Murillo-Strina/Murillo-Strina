@@ -11,7 +11,7 @@
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Murillo-Icons" height="50" src="https://skillicons.dev/icons?i=java,unity,py,cs,mysql">  
+  <img align="center" alt="Murillo-Icons" height="50" src="https://skillicons.dev/icons?i=java,js,unity,py,cs,mysql">  
 </div>
   
 <div align="center">
