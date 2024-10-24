@@ -7,7 +7,7 @@
   <a href="https://github.com/Murillo-Strina">
     <img width="350em" src="https://github-readme-stats.vercel.app/api?username=Murillo-Strina&show_icons=true&theme=dracula&count_private=true"/>
   </a>
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murillo-Strina&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murillo-Strina&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
