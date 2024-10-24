@@ -5,9 +5,9 @@
 
 <div align="center">
   <a href="https://github.com/Murillo-Strina">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Murillo-Strina&show_icons=true&theme=dracula&count_private=true"/>
+    <img width="350em" src="https://github-readme-stats.vercel.app/api?username=Murillo-Strina&show_icons=true&theme=dracula&count_private=true"/>
   </a>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murillo-Strina&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murillo-Strina&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
@@ -18,7 +18,6 @@
   <hr style="width: 80%; border: 1px solid #333;">
   <p>Hobbies</p>
   <p>🎮 Gaming | 📚 Reading | 🎲 Board Games</p>
-  </p>
   <hr style="width: 80%; border: 1px solid #333;">
 </div>
 
